@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pnz:home|Door43 (pnz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pnz|d43-pnz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pnz/archive/master.zip|d43-pnz.zip]]
+
+**Recent Changes**
+{{changes>ns = pnz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pnz|Ethnologue data]]
+
